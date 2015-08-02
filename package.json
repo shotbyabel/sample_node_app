@@ -1,0 +1,7 @@
+{
+  "name": "http-server",
+  "main": "sever.js",
+  "dependencies": {
+    "express": "^4.13.2"
+  }
+}
